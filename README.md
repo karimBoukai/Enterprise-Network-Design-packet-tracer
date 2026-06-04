@@ -214,9 +214,7 @@ Through this project, the following concepts were applied:
 
 * Ahmed Saeedy
 * Kerim Elmali (Karim Boukai)
-* Naki Erim Ozer
-* Abdulsalam Alhashmi
-* Yusuf Suha Yilmazer
+
 
 ---
 
@@ -227,6 +225,9 @@ Karim Boukai
 Software Engineering Student
 Bahçeşehir University
 
+Ahmed Saeedy
+Software Engineering Student
+Bahçeşehir University
 ---
 
 ## Course
